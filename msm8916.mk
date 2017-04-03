@@ -83,6 +83,10 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     CMActions
 
+# Doze
+PRODUCT_PACKAGES += \
+    Doze
+
 # Display
 PRODUCT_PACKAGES += \
     gralloc.msm8916 \
